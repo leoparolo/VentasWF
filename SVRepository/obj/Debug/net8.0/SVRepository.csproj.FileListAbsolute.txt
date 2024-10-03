@@ -1,0 +1,12 @@
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\bin\Debug\net8.0\SVRepository.deps.json
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\bin\Debug\net8.0\SVRepository.dll
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\bin\Debug\net8.0\SVRepository.pdb
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\obj\Debug\net8.0\SVRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\obj\Debug\net8.0\SVRepository.AssemblyInfoInputs.cache
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\obj\Debug\net8.0\SVRepository.AssemblyInfo.cs
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\obj\Debug\net8.0\SVRepository.csproj.CoreCompileInputs.cache
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\obj\Debug\net8.0\SVRepository.dll
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\obj\Debug\net8.0\refint\SVRepository.dll
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\obj\Debug\net8.0\SVRepository.pdb
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\obj\Debug\net8.0\ref\SVRepository.dll
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVRepository\obj\Debug\net8.0\SVRepository.csproj.AssemblyReference.cache

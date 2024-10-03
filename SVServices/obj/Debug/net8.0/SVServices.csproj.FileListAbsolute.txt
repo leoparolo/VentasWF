@@ -1,0 +1,15 @@
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\bin\Debug\net8.0\SVServices.deps.json
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\bin\Debug\net8.0\SVServices.dll
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\bin\Debug\net8.0\SVServices.pdb
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\bin\Debug\net8.0\SVRepository.dll
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\bin\Debug\net8.0\SVRepository.pdb
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\SVServices.csproj.AssemblyReference.cache
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\SVServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\SVServices.AssemblyInfoInputs.cache
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\SVServices.AssemblyInfo.cs
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\SVServices.csproj.CoreCompileInputs.cache
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\SVServices.csproj.Up2Date
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\SVServices.dll
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\refint\SVServices.dll
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\SVServices.pdb
+D:\Proyectos .NET\CodigoEstudiante\Nueva carpeta\SistemaVenta\SVServices\obj\Debug\net8.0\ref\SVServices.dll
